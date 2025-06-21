@@ -1,0 +1,66 @@
+
+[
+  {
+    "baslik": "Kanama",
+    "icerik": "Kendinizi koruyun: Eldiven varsa takın, yoksa temiz bir bez veya poşet kullanarak kanla direkt temasınızı azaltın.",
+    "resim": "assets/images/kanama.jpeg"
+  },
+  {
+    "baslik": "Kanayan bölgeyi yukarı kaldırın:",
+    "icerik": " Kanama olan bölge kalp seviyesinden yukarıda tutulursa kanama azalır.",
+    "resim": "assets/images/yukari_kanama.jpg"
+  },
+  {
+    "baslik": "Kanayan bölgeye doğrudan baskı uygulayın:",
+    "icerik": "Temiz bir bez, gazlı bez veya uygun başka bir malzeme ile kanayan yere sıkıca bastırın. Baskıyı kesmeden kanama durana kadar sürdürün.",
+    "resim": "assets/images/baski.jpeg"
+  },
+  {
+    "baslik": "Kanama durmazsa: ",
+    "icerik": "Baskıyı bırakmayın, üzerine yeni bez koyup baskıyı artırabilirsiniz. Eğer mümkünse turnike uygulaması yapılabilir ama bu ileri seviye ilk yardımdır ve yanlış uygulanırsa zarar verir.",
+    "resim": "assets/images/kanama_baski.jpg"
+  },
+  {
+    "baslik": "Açık yarayı temiz tutun:",
+    "icerik": "Kanama durduktan sonra yara üzerini steril bir bezle kapatın.",
+    "resim": "assets/images/temiz_bez.jpg"
+  },
+  {
+    "baslik": "Yaralıyı sakinleştirin ve gerektiğinde acil yardım çağırın:",
+    "icerik": "Kanama çok fazla ise, yaralı baygınlık geçiriyorsa veya büyük bir damar kesilmişse 112 acil çağrısını yapın.",
+    "resim": "assets/images/112.png"
+  },
+ 
+
+  {
+    "baslik": "Kırık",
+    "icerik": "Kırık bölgeyi hareket ettirmeyin, daha fazla zarar vermemek için sabit tutun.",
+    "resim": "assets/images/kirilma.jpeg"
+  },
+
+  {
+    "baslik": "Kırık",
+    "icerik": "Ağrı ve şişliği azaltmak için buz torbası uygulayın, doğrudan cilde temas ettirmeyin.",
+    "resim": "assets/images/buz_kırık.jpeg"
+  },
+
+  {
+    "baslik": "Kırık",
+    "icerik": "Yaralıyı sakinleştirin ve mümkün olduğunca hareket ettirmeyin.",
+    "resim": "assets/images/kirilma.jpeg"
+  },
+  {
+    "baslik": "Kırık",
+    "icerik": "Hızlıca 112’yi arayın ve profesyonel sağlık ekiplerinin gelmesini bekleyin.",
+    "resim": "assets/images/112.png"
+  },
+
+
+
+    {
+      "baslik": "Bayılma",
+      "icerik": "Kişiyi düz bir zemine yatırın, ayaklarını yukarı kaldırın. Ve hemen 112 acil servisini arayınnız.",
+      "resim":  "assets/images/bayilma.jpeg"
+    }
+  ]
+  

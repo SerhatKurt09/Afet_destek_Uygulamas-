@@ -1,0 +1,12 @@
+{
+"version": "0.2.0",
+"configrations":[
+    {
+        "name":"Dart & Flutter",
+        "request": "launch",
+        "typw": "dart",
+        "program": "$(file)",
+        "console": "terminal"
+    }
+]
+}
